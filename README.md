@@ -1,2 +1,13 @@
-# Rice-Brown-Disease-detection-using-Machine-Learning
-rice brown disease detection using machine learning typically describes an automated system that leverages image analysis and convolutional neural networks (CNNs) for accurate identification of rice leaf diseases, including Brown Spot.
+Overview
+This project empowers farmers and agricultural professionals to quickly diagnose rice crop diseases using a simple leaf photo. The application leverages Convolutional Neural Networks (CNNs) to analyze leaf images, predict the disease, and provide targeted management solutions.
+
+Features
+Upload rice leaf images for instant AI-based analysis
+
+High-accuracy prediction of major rice diseases
+
+Detailed result page with disease description, management tips, and confidence charts
+
+Downloadable PDF reports for recordkeeping
+
+User authentication (signup/login)
