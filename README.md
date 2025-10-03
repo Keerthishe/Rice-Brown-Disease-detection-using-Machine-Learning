@@ -1,7 +1,7 @@
-Overview
+
 This project empowers farmers and agricultural professionals to quickly diagnose rice crop diseases using a simple leaf photo. The application leverages Convolutional Neural Networks (CNNs) to analyze leaf images, predict the disease, and provide targeted management solutions.
 
-Features
+
 Upload rice leaf images for instant AI-based analysis
 
 High-accuracy prediction of major rice diseases
